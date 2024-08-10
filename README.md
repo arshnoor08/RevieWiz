@@ -11,7 +11,7 @@ RevieWiz is a chatbot designed to scrape Amazon reviews, convert them into actio
 ## Set Up
 Before running revieWiz, you need to set up your environment:
 
-OpenAI API Key: Obtain an API key from OpenAI and set it as an environment variable. The key added in this file has been disabled and should be replaced with a valid key for the model to work. 
+OpenAI API Key: Obtain an API key from OpenAI and set it as an environment variable. The key added in RevieWiz.ipynb has been disabled and should be replaced with a valid key for the model to work. 
 
 ## Contributions and Feedback
 Contributions to revieWiz are welcome! If you have any suggestions or bug reports, please open an issue or submit a pull request.
